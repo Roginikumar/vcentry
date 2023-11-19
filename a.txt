@@ -1,9 +1,11 @@
 Header2
+Newline added
 HEADER 1
 vcentry1
 vcentry2
 message
 call
+Newline added2
 FOOTER 1
 Footer2
 
